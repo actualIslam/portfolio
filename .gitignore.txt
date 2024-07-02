@@ -309,6 +309,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
 # Windows shortcuts
 *.lnk
 
